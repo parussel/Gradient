@@ -1,0 +1,4 @@
+2026-10-16 Gradient 1.0.0.6
+- Fixed matching of reading names containing special characters such as a dot.
+- Added project attribution, an internal version identifier, bilingual module help and the project link.
+- Added automated regression tests and FHEM update support.

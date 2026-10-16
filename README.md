@@ -31,8 +31,23 @@ Vor der Installation eine FHEM-Sicherung anlegen. Anschließend im FHEM-Kommando
 
 ```text
 update add https://raw.githubusercontent.com/parussel/Gradient/main/controls_gradient.txt
-update check https://raw.githubusercontent.com/parussel/Gradient/main/controls_gradient.txt
-update all https://raw.githubusercontent.com/parussel/Gradient/main/controls_gradient.txt
+```
+
+Die Rückmeldung abwarten. Danach zunächst nur prüfen, welche Datei geändert würde:
+
+```text
+update check gradient
+```
+
+Erst wenn die Vorschau ausschließlich `FHEM/70_Gradient.pm` nennt, die Installation ausführen:
+
+```text
+update all gradient
+```
+
+Nach erfolgreichem Download das Modul neu laden:
+
+```text
 reload 70_Gradient
 ```
 
@@ -52,6 +67,10 @@ Der Regressionstest prüft Definition, Versionskennung, lineare Regression, Schw
 
 ```sh
 sh tests/run-tests.sh
+```
+
+```powershell
+powershell -ExecutionPolicy Bypass -File tests/test-update-package.ps1
 ```
 
 ## Entwicklung und Lizenz
