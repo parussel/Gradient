@@ -9,7 +9,7 @@
 # Copyright (C) 2026 Frank Parussel.
 # SPDX-License-Identifier: GPL-2.0-or-later
 #
-# Project information: https://153er-netz.de/Seiten/Entwicklung
+# Project information: https://153er-netz.de/seiten/entwicklung.html
 
 =for comment
 ####################################################################################################
@@ -234,7 +234,7 @@ sub Gradient_Notify {
     <br>
     <b>Project information</b>
     <ul>
-        <a href="https://153er-netz.de/Seiten/Entwicklung">153er-netz.de / Development</a><br>
+        <a href="https://153er-netz.de/seiten/entwicklung.html">153er-netz.de / Development</a><br>
         Independent community module; currently not an official FHEM module.
     </ul>
     <br>
@@ -293,7 +293,7 @@ sub Gradient_Notify {
     <br>
     <b>Projektinformationen</b>
     <ul>
-        <a href="https://153er-netz.de/Seiten/Entwicklung">153er-netz.de / Entwicklung</a><br>
+        <a href="https://153er-netz.de/seiten/entwicklung.html">153er-netz.de / Entwicklung</a><br>
         Unabhängiges Community-Modul; derzeit kein offizielles FHEM-Modul.
     </ul>
     <br>

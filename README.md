@@ -4,7 +4,7 @@
 
 > **Status und Risiko:** Unabhängiges Community-Modul, derzeit kein offizieller Bestandteil von FHEM. Automatisierte Tests und ein praktischer Betrieb mit mehreren Definitionen wurden geprüft; eine breite Erprobung in unterschiedlichen Anlagen steht noch aus. Nutzung in eigener Verantwortung.
 
-Projektinformationen: [153er-netz.de – Entwicklung](https://153er-netz.de/Seiten/Entwicklung)
+Projektinformationen: [153er-netz.de – Entwicklung](https://153er-netz.de/seiten/entwicklung.html)
 
 ## Beispiele
 
