@@ -42,7 +42,7 @@ update check gradient
 Erst wenn die Vorschau ausschließlich `FHEM/70_Gradient.pm` nennt, die Installation ausführen:
 
 ```text
-update all gradient
+update all https://raw.githubusercontent.com/parussel/Gradient/main/controls_gradient.txt
 ```
 
 Nach erfolgreichem Download das Modul neu laden:
