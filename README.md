@@ -9,7 +9,7 @@ ein Feuchteanstieg oder die Erwärmung eines Zirkulationsrücklaufs erkennen.
 > FHEM-Betrieb geprüft. Vor der Installation eine Sicherung erstellen und die
 > Schwellwerte an die eigene Anlage anpassen. Nutzung in eigener Verantwortung.
 
-Projektinformationen: [153er-netz.de – Entwicklung](https://153er-netz.de/seiten/entwicklung.html)
+Projektinformationen: [153er-netz.de – Entwicklung](https://153er-netz.de/seiten/entwicklung/fhem.html)
 
 ## Typische Anwendungen
 
